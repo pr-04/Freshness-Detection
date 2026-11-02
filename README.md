@@ -23,7 +23,7 @@ From the project root:
 ```powershell
 npm install
 npm --prefix backend install
-cd "C:\Users\asus\OneDrive\Desktop\Capstone Project\ml-service"
+cd ml-service
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
@@ -39,7 +39,7 @@ Start each in a separate PowerShell window.
 **FastAPI ML service:**
 
 ```powershell
-cd "C:\Users\asus\OneDrive\Desktop\Capstone Project\ml-service"
+cd ml-service
 .\.venv\Scripts\Activate.ps1
 python -m uvicorn app.main:app --host 127.0.0.1 --port 8000
 ```
@@ -49,7 +49,7 @@ The service loads `models/freshness_classifier/best_model.pth` once on startup. 
 **Express API:**
 
 ```powershell
-cd "C:\Users\asus\OneDrive\Desktop\Capstone Project"
+cd backend
 npm --prefix backend run dev
 ```
 
@@ -58,7 +58,6 @@ Check `http://localhost:5000/api/health`.
 **React/Vite frontend:**
 
 ```powershell
-cd "C:\Users\asus\OneDrive\Desktop\Capstone Project"
 npm run dev
 ```
 
