@@ -1,0 +1,7 @@
+"category","fresh_rows","rotten_rows","total_rows","unique_sha256_hashes","unique_fresh_hashes","unique_rotten_hashes","unambiguous_unique_fresh_hashes","unambiguous_unique_rotten_hashes","repeated_hash_groups","excess_duplicate_rows","conflicting_hash_groups","rows_in_conflicting_groups","validation_status","image_format","zero_or_missing_dimension_rows","source"
+"Potato","1151","1387","2538","2497","1146","1351","1146","1351","39","41","0","0","valid:2538","JPEG","0","Mendeley FoodClass v2"
+"Tomato","13681","4014","17695","13507","10882","2622","10879","2619","3423","4188","3","6","valid:17695","JPEG","0","Mendeley FoodClass v2"
+"Onion","0","0","0","0","0","0","0","0","0","0","0","0","none","none","0","none"
+"Carrot","9899","2419","12318","11222","9242","1997","9225","1980","973","1096","17","35","valid:12318","JPEG","0","Mendeley FoodClass v2"
+"Cucumber","1104","1014","2118","1785","818","967","818","967","220","333","0","0","valid:2118","JPEG","0","Mendeley FoodClass v2"
+"Bell Pepper (Capsicum)","1601","1492","3093","3038","1590","1448","1590","1448","51","55","0","0","valid:3093","JPEG","0","Mendeley FoodClass v2"

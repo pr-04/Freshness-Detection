@@ -1,0 +1,12 @@
+dataset_name,source_url,archive_name,reported_archive_size,download_status,downloaded_bytes,sha256,extracted_path,images_extracted,reason
+FruQ-DB,https://zenodo.org/records/7224690,FruQ-DB.zip,241.1 MB,NOT DOWNLOADED,0,,NONE,0,"Zenodo license and video-source rights not documented"
+FruQ-Multi,https://zenodo.org/records/7224690,FruQ-multi.zip,4.7 GB,NOT DOWNLOADED,0,,NONE,0,"Exceeds 2 GB per-archive limit; provenance/license unresolved"
+FoodClass v2,https://data.mendeley.com/datasets/5fjkkv5xgt/2,UNKNOWN,UNKNOWN,NOT DOWNLOADED,0,,NONE,0,"Same source/version already represented locally; archive sizes unavailable; image rights unresolved"
+Onion Zenodo,https://zenodo.org/records/20254934,Onion Image Dataset.zip,1.6 GB,NOT DOWNLOADED,0,,NONE,0,"License field blank and Healthy/Unhealthy not Fresh/Rotten"
+Onion metadata,https://zenodo.org/records/20254934,All Metadata.xlsx,1.3 MB,NOT DOWNLOADED,0,,NONE,0,"Did not retrieve data while Onion acquisition gate was unresolved"
+Freshness44 Kaggle,https://www.kaggle.com/datasets/siavash93/freshness44,UNKNOWN,UNKNOWN,NOT DOWNLOADED,0,,NONE,0,"Kaggle CLI unavailable; source metadata/license inaccessible"
+Freshness44 cleaned,https://data.mendeley.com/datasets/ns74rx364w/1,UNKNOWN,UNKNOWN,NOT DOWNLOADED,0,,NONE,0,"Phase 11 unresolved file metadata/upstream rights blockers"
+AgriFreshNET,https://data.mendeley.com/datasets/42m5tb7yv9/1,Raw Data.zip / Processed_Data.zip,UNKNOWN,NOT DOWNLOADED,0,,NONE,0,"Target category counts and file sizes unavailable; Semi-Fresh must remain separate"
+Tomato_detection,https://data.mendeley.com/datasets/vy5y8p2kdb/1,Tomato_Dataset.v5.zip,42 MB reported,NOT DOWNLOADED,0,,NONE,0,"Unspecified original image sources and augmentation/split lineage unresolved"
+Good/Bad carrot,https://data.mendeley.com/datasets/ww83r63rtr/1,UNKNOWN,UNKNOWN,NOT DOWNLOADED,0,,NONE,0,"Bad includes defects beyond spoilage; archive metadata unavailable"
+Ten-produce paper source,https://www.kaggle.com/datasets/muhriddinmuxiddinov/fruits-and-vegetables-dataset,UNKNOWN,UNKNOWN,NOT DOWNLOADED,0,,NONE,0,"Image sources and license not documented; multiple-object images reported"

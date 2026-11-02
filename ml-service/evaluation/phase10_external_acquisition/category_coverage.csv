@@ -1,0 +1,13 @@
+﻿category,Freshness44_fresh_paper_reported,Freshness44_rotten_paper_reported,Freshness44_archive_verified,five_veg_paper_fresh_reported,five_veg_paper_rotten_reported,Phase9_local_quality_clean_candidate_fresh,Phase9_local_quality_clean_candidate_rotten,Phase9_local_candidate_total,external_source_status,category_decision
+Apple,3468,4263,NO,,,NOT IN PHASE9 VEGETABLE AUDIT,NOT IN PHASE9 VEGETABLE AUDIT,NOT IN PHASE9 VEGETABLE AUDIT,Paper/record reported only; no archive acquired,PROVENANCE OR LICENSE UNVERIFIED
+Banana,3513,3605,NO,,,NOT IN PHASE9 VEGETABLE AUDIT,NOT IN PHASE9 VEGETABLE AUDIT,NOT IN PHASE9 VEGETABLE AUDIT,Paper/record reported only; no archive acquired,PROVENANCE OR LICENSE UNVERIFIED
+Guava,1352,1329,NO,,,NOT IN PHASE9 VEGETABLE AUDIT,NOT IN PHASE9 VEGETABLE AUDIT,NOT IN PHASE9 VEGETABLE AUDIT,Paper/record reported only; no archive acquired,PROVENANCE OR LICENSE UNVERIFIED
+Orange,3164,3443,NO,,,NOT IN PHASE9 VEGETABLE AUDIT,NOT IN PHASE9 VEGETABLE AUDIT,NOT IN PHASE9 VEGETABLE AUDIT,Paper/record reported only; no archive acquired,PROVENANCE OR LICENSE UNVERIFIED
+Pomegranate,6140,1387,NO,,,NOT IN PHASE9 VEGETABLE AUDIT,NOT IN PHASE9 VEGETABLE AUDIT,NOT IN PHASE9 VEGETABLE AUDIT,Paper/record reported only; no archive acquired,PROVENANCE OR LICENSE UNVERIFIED
+Strawberry,803,795,NO,,,NOT IN PHASE9 VEGETABLE AUDIT,NOT IN PHASE9 VEGETABLE AUDIT,NOT IN PHASE9 VEGETABLE AUDIT,Paper/record reported only; no archive acquired,PROVENANCE OR LICENSE UNVERIFIED
+Potato,602,562,NO,615,585,1146,1351,2497,Paper/record reported only; no archive acquired,PROVENANCE OR LICENSE UNVERIFIED
+Tomato,1905,2504,NO,604,596,10882,2622,13504,Paper/record reported only; no archive acquired,PROVENANCE OR LICENSE UNVERIFIED
+Onion,,,NO,,,0,0,0,Paper/record reported only; no archive acquired,LABEL SEMANTICS UNCLEAR
+Carrot,605,507,NO,620,580,9225,1977,11202,Paper/record reported only; no archive acquired,PROVENANCE OR LICENSE UNVERIFIED
+Cucumber,833,692,NO,608,593,818,967,1785,Paper/record reported only; no archive acquired,PROVENANCE OR LICENSE UNVERIFIED
+Bell Pepper,1634,2108,NO,611,591,1590,1448,3038,Paper/record reported only; no archive acquired,PROVENANCE OR LICENSE UNVERIFIED

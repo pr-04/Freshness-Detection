@@ -1,0 +1,13 @@
+category,phase12_images_acquired,phase12_fresh_acquired,phase12_rotten_acquired,best_candidate_source,local_foodclass_inventory_rows,local_label_fresh_rows,local_label_rotten_rows,local_unique_hashes,local_conflict_hash_groups,local_conflict_rows,reported_external_coverage,coverage_notes
+Apple,0,0,0,FoodClass v2 already local,7868,3431,4437,5886,0,0,"FoodClass local records; Freshness44 paper reports 7731",Local inventory rows and hash group count; labels not independently validated
+Banana,0,0,0,FoodClass v2 already local,7511,3473,4038,5692,0,0,"FoodClass local records; Freshness44 paper reports 7118",Local inventory rows and hash group count
+Guava,0,0,0,Existing AgML model data; no vegetable-expansion source verified,0,0,0,0,0,0,"Freshness44 paper reports 2681",No local FoodClass v2 inventory rows
+Orange,0,0,0,FoodClass v2 already local,14123,10831,3292,10693,316,632,"Freshness44 paper reports 6607",Local Mendeley inventory has 316 exact-hash Fresh/Rotten conflict groups / 632 rows
+Pomegranate,0,0,0,Existing AgML model data; no vegetable-expansion source verified,0,0,0,0,0,0,"Freshness44 paper reports 7527",No local FoodClass v2 inventory rows
+Strawberry,0,0,0,FoodClass v2 already local,1199,603,596,1199,0,0,"Freshness44 paper reports 1598",Local inventory rows and hash group count
+Potato,0,0,0,FoodClass v2 already local,2538,1151,1387,2497,0,0,"Freshness44 paper reports 1164; 2022 paper reports 1200",Existing local category counts; per-image rights unresolved
+Tomato,0,0,0,FoodClass v2 already local; Tomato_detection external candidate,17695,13681,4014,13507,3,6,"Freshness44 paper reports 4409; Tomato_detection reports 1600",3 conflicting exact-hash groups / 6 rows; no Phase12 external overlap test
+Onion,0,0,0,Onion bulbs/leaves exploratory source only,0,0,0,0,0,0,"No Freshness44 paper category; external source reports 12260 bulbs plus 4040 leaves Healthy/Unhealthy",No suitable Fresh/Rotten source verified
+Carrot,0,0,0,FoodClass v2 local; Good/Bad Mendeley candidate,12318,9899,2419,11222,17,35,"Freshness44 paper reports 1112; 2022 paper reports 1200; Good/Bad source says >500",17 conflicting exact-hash groups / 35 rows; large recorded class imbalance
+Cucumber,0,0,0,FoodClass v2 already local; FruQ-DB exploratory candidate,2118,1104,1014,1785,0,0,"Freshness44 paper reports 1525; 2022 paper reports 1201; FruQ-DB class cross-tabs unavailable",Local rows include duplicates; FruQ frames may be adjacent time-lapse frames
+Bell Pepper / Capsicum,0,0,0,FoodClass v2 already local; FruQ Pepper ambiguous,3093,1601,1492,3038,0,0,"Freshness44 paper reports 3742; 2022 paper reports 1202",Do not assume FruQ Pepper is Bell Pepper

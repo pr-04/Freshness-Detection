@@ -1,0 +1,7 @@
+﻿vegetable_category,fresh_inventory_rows,rotten_inventory_rows,total_inventory_rows,fresh_share_percent,rotten_share_percent,readable_images_verified,unreadable_images_verified,missing_images,unique_sha256_images,repeated_exact_hash_groups,excess_exact_duplicate_rows,conflicting_label_groups,rows_in_conflicting_groups,review_manifest_rows,review_decisions_pending,source
+Potato,1151,1387,2538,45.35,54.65,2538,0,0,2497,39,41,0,0,8,8,Mendeley FoodClass v2
+Tomato,13681,4014,17695,77.32,22.68,17695,0,0,13507,3423,4188,3,6,14,14,Mendeley FoodClass v2
+Onion,0,0,0,0.00,0.00,0,0,0,0,0,0,0,0,0,0,None
+Carrot,9899,2419,12318,80.36,19.64,12318,0,0,11222,973,1096,17,35,43,43,Mendeley FoodClass v2
+Cucumber,1104,1014,2118,52.12,47.88,2118,0,0,1785,220,333,0,0,8,8,Mendeley FoodClass v2
+Bell Pepper,1601,1492,3093,51.76,48.24,3093,0,0,3038,51,55,0,0,8,8,Mendeley FoodClass v2

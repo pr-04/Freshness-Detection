@@ -1,0 +1,137 @@
+{
+  "labels_in_order": [
+    "fresh",
+    "rotten"
+  ],
+  "rows_actual_columns_predicted": true,
+  "per_category": {
+    "apple": {
+      "labels_in_order": [
+        "fresh",
+        "rotten"
+      ],
+      "rows_actual_columns_predicted": [
+        [
+          30,
+          0
+        ],
+        [
+          0,
+          30
+        ]
+      ]
+    },
+    "banana": {
+      "labels_in_order": [
+        "fresh",
+        "rotten"
+      ],
+      "rows_actual_columns_predicted": [
+        [
+          30,
+          0
+        ],
+        [
+          0,
+          30
+        ]
+      ]
+    },
+    "grape": {
+      "labels_in_order": [
+        "fresh",
+        "rotten"
+      ],
+      "rows_actual_columns_predicted": [
+        [
+          30,
+          0
+        ],
+        [
+          1,
+          29
+        ]
+      ]
+    },
+    "guava": {
+      "labels_in_order": [
+        "fresh",
+        "rotten"
+      ],
+      "rows_actual_columns_predicted": [
+        [
+          30,
+          0
+        ],
+        [
+          0,
+          30
+        ]
+      ]
+    },
+    "orange": {
+      "labels_in_order": [
+        "fresh",
+        "rotten"
+      ],
+      "rows_actual_columns_predicted": [
+        [
+          28,
+          0
+        ],
+        [
+          0,
+          30
+        ]
+      ]
+    },
+    "pomegranate": {
+      "labels_in_order": [
+        "fresh",
+        "rotten"
+      ],
+      "rows_actual_columns_predicted": [
+        [
+          30,
+          0
+        ],
+        [
+          0,
+          30
+        ]
+      ]
+    },
+    "strawberry": {
+      "labels_in_order": [
+        "fresh",
+        "rotten"
+      ],
+      "rows_actual_columns_predicted": [
+        [
+          30,
+          0
+        ],
+        [
+          0,
+          30
+        ]
+      ]
+    }
+  },
+  "overall_selected_categories": {
+    "labels_in_order": [
+      "fresh",
+      "rotten"
+    ],
+    "rows_actual_columns_predicted": [
+      [
+        208,
+        0
+      ],
+      [
+        1,
+        209
+      ]
+    ]
+  }
+}

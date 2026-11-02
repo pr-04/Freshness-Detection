@@ -1,0 +1,2 @@
+dataset_id,version,source_url,download_date,archive_filename,archive_size_bytes,license,sha256,extracted_file_count,extraction_status,acquisition_status,reason
+ns74rx364w,1,https://data.mendeley.com/datasets/ns74rx364w/1,,NONE,0,CC BY 4.0 record-level only,,0,NOT RUN,NOT DOWNLOADED,"Pre-download gates failed: file metadata/size/content inaccessible; upstream image rights and attribution unresolved"

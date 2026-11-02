@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.py[cod]
+.tmp/
+models/*.pt
+models/*.part
+models/freshness_classifier/
+datasets/raw/
+datasets/prepared/
+
+# Large dataset directories (too large for GitHub)
+datasets/expansion_15/
+datasets/external_staging/
+
+# Large generated CSV files (>50 MB)
+evaluation/phase13_vegetable_dataset_development/local_source_recovery.csv
+evaluation/phase9_automated_curation/candidate_manifest.csv
+evaluation/phase9_automated_curation/image_quality_report.csv

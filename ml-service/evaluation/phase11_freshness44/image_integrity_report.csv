@@ -1,0 +1,2 @@
+dataset_id,files_scanned,readable_images,unreadable_images,blank_candidates,dimensions_summary,status,notes
+ns74rx364w,0,0,0,0,,NOT RUN,"No archive acquired because source/file and provenance gates failed"

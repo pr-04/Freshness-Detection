@@ -1,0 +1,2 @@
+﻿comparison,path_a,path_b,sha256_a,sha256_b,dhash_distance,status
+NONE,,,,,,NOT RUN — no external images staged; metadata overlap risks are in the report

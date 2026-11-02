@@ -1,0 +1,5 @@
+external_dataset,local_dataset,exact_overlap_count,near_duplicate_candidate_count,label_conflict_count,status,metadata_risk,notes
+Freshness44 cleaned derivative,Project-AgML six-fruit dataset,,,,NOT RUN,UNKNOWN,"No external files/hashes acquired; local image comparison not performed"
+Freshness44 cleaned derivative,Vegetable Mendeley inventory,,,,NOT RUN,HIGH_PLAUSIBILITY,"Freshness44 is described as merged from five public sources; exact source/image identities unknown"
+Freshness44 cleaned derivative,Phase 9 vegetable candidate manifest,,,,NOT RUN,HIGH_PLAUSIBILITY,"Phase 9 manifest represents local Mendeley FoodClass sources; no external hashes available"
+Freshness44 cleaned derivative,Existing duplicate/conflict ledgers,,,,NOT RUN,UNKNOWN,"No external image groups to compare; existing conflict ledgers unchanged"

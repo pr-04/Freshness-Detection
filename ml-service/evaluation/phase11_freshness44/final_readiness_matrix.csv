@@ -1,0 +1,13 @@
+category,actual_acquired_count,fresh_count,rotten_count,data_quality,overlap_risk,provenance,decision,reason
+Apple,0,0,0,NOT ASSESSED,HIGH_PLAUSIBILITY,UNVERIFIED,PROVENANCE UNVERIFIED,"Paper reports category; cleaned derivative contents and rights chain not verified"
+Banana,0,0,0,NOT ASSESSED,HIGH_PLAUSIBILITY,UNVERIFIED,PROVENANCE UNVERIFIED,"Paper reports category; cleaned derivative contents and rights chain not verified"
+Guava,0,0,0,NOT ASSESSED,UNKNOWN,UNVERIFIED,PROVENANCE UNVERIFIED,"Paper reports category; cleaned derivative contents and rights chain not verified"
+Orange,0,0,0,NOT ASSESSED,HIGH_PLAUSIBILITY,UNVERIFIED,PROVENANCE UNVERIFIED,"Paper reports category; cleaned derivative contents and rights chain not verified"
+Pomegranate,0,0,0,NOT ASSESSED,UNKNOWN,UNVERIFIED,PROVENANCE UNVERIFIED,"Paper reports category; cleaned derivative contents and rights chain not verified"
+Strawberry,0,0,0,NOT ASSESSED,UNKNOWN,UNVERIFIED,PROVENANCE UNVERIFIED,"Paper reports category; cleaned derivative contents and rights chain not verified"
+Potato,0,0,0,NOT ASSESSED,HIGH_PLAUSIBILITY,UNVERIFIED,PROVENANCE UNVERIFIED,"Paper reports category; cleaned derivative contents and rights chain not verified"
+Tomato,0,0,0,NOT ASSESSED,HIGH_PLAUSIBILITY,UNVERIFIED,PROVENANCE UNVERIFIED,"Paper reports category; cleaned derivative contents and rights chain not verified"
+Carrot,0,0,0,NOT ASSESSED,UNKNOWN,UNVERIFIED,PROVENANCE UNVERIFIED,"Paper reports category; cleaned derivative contents and rights chain not verified"
+Cucumber,0,0,0,NOT ASSESSED,UNKNOWN,UNVERIFIED,PROVENANCE UNVERIFIED,"Paper reports category; cleaned derivative contents and rights chain not verified"
+Bell Pepper / Capsicum,0,0,0,NOT ASSESSED,HIGH_PLAUSIBILITY,UNVERIFIED,PROVENANCE UNVERIFIED,"Paper reports category; cleaned derivative contents and rights chain not verified"
+Onion,0,0,0,NOT AVAILABLE,UNKNOWN,NOT APPLICABLE,NOT AVAILABLE,"Onion is not reported in Freshness44 paper table or derivative record description"

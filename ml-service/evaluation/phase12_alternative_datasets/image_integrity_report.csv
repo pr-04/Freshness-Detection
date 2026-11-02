@@ -1,0 +1,2 @@
+dataset_name,images_scanned,readable,unreadable,blank_candidates,dimensions_formats,status,notes
+ALL_PHASE12_CANDIDATES,0,0,0,0,,NOT RUN,"No external dataset was staged or acquired"

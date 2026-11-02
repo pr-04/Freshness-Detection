@@ -1,0 +1,7 @@
+dataset_a,dataset_b,exact_duplicate_groups,near_duplicate_candidates,conflicting_label_groups,split_crossings,status,notes
+FoodClass v2 external listing,existing local FoodClass v2 inventory,,,,,SOURCE_LEVEL_OVERLAP_CONFIRMED,"Same Mendeley dataset/version is cited by local rows; byte-level comparison against a newly downloaded archive not run"
+FruQ-DB,local inventories,,,,,NOT RUN,"No external images; sequential video frames create expected near-duplicate risk but not confirmed pairs"
+Freshness44,local inventories,,,,,NOT RUN,"No external images; paper describes five-source aggregation and local overlap is plausible"
+Onion dataset,local inventories,,,,,NOT RUN,"No external images; local Onion row count is zero"
+Tomato_detection,local inventories,,,,,NOT RUN,"No external images; original-source/augmentation IDs unavailable for overlap checks"
+ALL other candidates,local inventories,,,,,NOT RUN,"No candidate archive acquired"
